@@ -1,4 +1,3 @@
 # Hi
-I'm luxcid, a C developer from germany.
-
-I am currently running Gentoo & DragonFlyBSD 6.4
+I write kernels in C that aren't actually functional
+I use Gentoo BTW
